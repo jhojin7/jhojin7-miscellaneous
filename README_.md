@@ -1,16 +1,14 @@
 # jhojin7's Most Recent Submissions:
-
-Updated: 2022-02-07 23:59:02
-
-|    | Title                     | Status                | Datetime            |
-|---:|:--------------------------|:----------------------|:--------------------|
-|  0 | rotate-array              | Wrong Answer          | 2022-02-07 06:03:54 |
-|  1 | rotate-array              | Wrong Answer          | 2022-02-07 06:03:54 |
-|  2 | rotate-array              | Wrong Answer          | 2022-02-07 06:03:54 |
-|  3 | rotate-array              | Wrong Answer          | 2022-02-07 06:03:54 |
-|  4 | rotate-array              | Time Limit Exceeded   | 2022-02-07 06:03:54 |
-|  5 | rotate-array              | Output Limit Exceeded | 2022-02-07 06:03:54 |
-|  6 | squares-of-a-sorted-array | Accepted              | 2022-02-07 06:03:54 |
-|  7 | squares-of-a-sorted-array | Accepted              | 2022-02-07 06:03:54 |
-|  8 | squares-of-a-sorted-array | Wrong Answer          | 2022-02-07 06:03:54 |
-|  9 | binary-search             | Accepted              | 2022-02-07 06:03:54 |
+Updated: 2022-02-08 22:42:24
+|    | Title               | Status        | Datetime            |
+|---:|:--------------------|:--------------|:--------------------|
+|  0 | two-sum             | Accepted      | 2022-02-08 19:51:01 |
+|  1 | two-sum             | Wrong Answer  | 2022-02-08 19:51:01 |
+|  2 | find-the-difference | Wrong Answer  | 2022-02-08 19:51:01 |
+|  3 | find-the-difference | Runtime Error | 2022-02-08 19:51:01 |
+|  4 | add-digits          | Accepted      | 2022-02-08 19:51:01 |
+|  5 | move-zeroes         | Accepted      | 2022-02-08 19:51:01 |
+|  6 | rotate-array        | Wrong Answer  | 2022-02-08 19:51:01 |
+|  7 | rotate-array        | Wrong Answer  | 2022-02-08 19:51:01 |
+|  8 | rotate-array        | Wrong Answer  | 2022-02-08 19:51:01 |
+|  9 | rotate-array        | Wrong Answer  | 2022-02-08 19:51:01 |
