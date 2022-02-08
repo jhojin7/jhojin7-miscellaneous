@@ -1,5 +1,5 @@
 # jhojin7's Most Recent Submissions:
-Updated: 2022-02-08 22:42:24
+Updated: 2022-02-09 00:18:35
 |    | Title               | Status        | Datetime            |
 |---:|:--------------------|:--------------|:--------------------|
 |  0 | two-sum             | Accepted      | 2022-02-08 19:51:01 |
