@@ -8,3 +8,4 @@
 |  5 | 2022-02-06 | NotStart     | /problems/remove-duplicates-from-sorted-array-ii/ | {'questionFrontendId': '80', 'title': 'Remove Duplicates from Sorted Array II', 'titleSlug': 'remove-duplicates-from-sorted-array-ii'} |
 |  6 | 2022-02-07 | NotStart     | /problems/find-the-difference/                    | {'questionFrontendId': '389', 'title': 'Find the Difference', 'titleSlug': 'find-the-difference'}                                      |
 |  7 | 2022-02-08 | NotStart     | /problems/add-digits/                             | {'questionFrontendId': '258', 'title': 'Add Digits', 'titleSlug': 'add-digits'}                                                        |
+|  8 | 2022-02-09 | NotStart     | /problems/k-diff-pairs-in-an-array/               | {'questionFrontendId': '532', 'title': 'K-diff Pairs in an Array', 'titleSlug': 'k-diff-pairs-in-an-array'}                            |
