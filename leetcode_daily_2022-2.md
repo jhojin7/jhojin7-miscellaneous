@@ -11,3 +11,5 @@
 |  8 | 2022-02-09 | NotStart     | /problems/k-diff-pairs-in-an-array/               | {'questionFrontendId': '532', 'title': 'K-diff Pairs in an Array', 'titleSlug': 'k-diff-pairs-in-an-array'}                            |
 |  9 | 2022-02-10 | NotStart     | /problems/subarray-sum-equals-k/                  | {'questionFrontendId': '560', 'title': 'Subarray Sum Equals K', 'titleSlug': 'subarray-sum-equals-k'}                                  |
 | 10 | 2022-02-11 | NotStart     | /problems/permutation-in-string/                  | {'questionFrontendId': '567', 'title': 'Permutation in String', 'titleSlug': 'permutation-in-string'}                                  |
+| 11 | 2022-02-12 | NotStart     | /problems/word-ladder/                            | {'questionFrontendId': '127', 'title': 'Word Ladder', 'titleSlug': 'word-ladder'}                                                      |
+| 12 | 2022-02-13 | NotStart     | /problems/subsets/                                | {'questionFrontendId': '78', 'title': 'Subsets', 'titleSlug': 'subsets'}                                                               |
