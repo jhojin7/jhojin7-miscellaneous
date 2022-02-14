@@ -13,3 +13,4 @@
 | 10 | 2022-02-11 | NotStart     | /problems/permutation-in-string/                  | {'questionFrontendId': '567', 'title': 'Permutation in String', 'titleSlug': 'permutation-in-string'}                                  |
 | 11 | 2022-02-12 | NotStart     | /problems/word-ladder/                            | {'questionFrontendId': '127', 'title': 'Word Ladder', 'titleSlug': 'word-ladder'}                                                      |
 | 12 | 2022-02-13 | NotStart     | /problems/subsets/                                | {'questionFrontendId': '78', 'title': 'Subsets', 'titleSlug': 'subsets'}                                                               |
+| 13 | 2022-02-14 | NotStart     | /problems/maximum-depth-of-binary-tree/           | {'questionFrontendId': '104', 'title': 'Maximum Depth of Binary Tree', 'titleSlug': 'maximum-depth-of-binary-tree'}                    |

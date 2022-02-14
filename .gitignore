@@ -1,3 +1,4 @@
 .env
 output.json
 jhojin7-miscellaneous.code-workspace
+__pycache__/
