@@ -1,14 +1,14 @@
 # jhojin7's Most Recent Submissions:
-Updated: 2022-02-17 18:01:56
-|    | Title                     | Status        | Datetime            |
-|---:|:--------------------------|:--------------|:--------------------|
-|  0 | group-anagrams            | Accepted      | 2022-02-16 23:58:47 |
-|  1 | group-anagrams            | Wrong Answer  | 2022-02-16 23:58:47 |
-|  2 | reorder-data-in-log-files | Accepted      | 2022-02-16 23:58:47 |
-|  3 | reverse-string            | Accepted      | 2022-02-16 23:58:47 |
-|  4 | reverse-string            | Runtime Error | 2022-02-16 23:58:47 |
-|  5 | subsets                   | Accepted      | 2022-02-16 23:58:47 |
-|  6 | subsets                   | Wrong Answer  | 2022-02-16 23:58:47 |
-|  7 | valid-palindrome          | Accepted      | 2022-02-16 23:58:47 |
-|  8 | valid-palindrome          | Accepted      | 2022-02-16 23:58:47 |
-|  9 | valid-palindrome          | Accepted      | 2022-02-16 23:58:47 |
+Updated: 2022-03-06 03:10:53
+|    | Title            | Status              | Datetime            |
+|---:|:-----------------|:--------------------|:--------------------|
+|  0 | delete-and-earn  | Wrong Answer        | 2022-03-06 00:27:46 |
+|  1 | delete-and-earn  | Wrong Answer        | 2022-03-06 00:27:46 |
+|  2 | delete-and-earn  | Wrong Answer        | 2022-03-06 00:27:46 |
+|  3 | delete-and-earn  | Wrong Answer        | 2022-03-06 00:27:46 |
+|  4 | 3sum             | Time Limit Exceeded | 2022-03-06 00:27:46 |
+|  5 | majority-element | Accepted            | 2022-03-06 00:27:46 |
+|  6 | majority-element | Accepted            | 2022-03-06 00:27:46 |
+|  7 | majority-element | Time Limit Exceeded | 2022-03-06 00:27:46 |
+|  8 | two-sum          | Accepted            | 2022-03-06 00:27:46 |
+|  9 | two-sum          | Accepted            | 2022-03-06 00:27:46 |
