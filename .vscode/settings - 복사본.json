@@ -1,0 +1,34 @@
+{
+    "window.zoomLevel": 1,
+    "vscode-pets.petSize": "medium",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "json.maxItemsComputed": 10000,
+    "jupyter.askForKernelRestart": false,
+    "editor.wordWrap": "on",
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.ignoreRebaseWarning": true,
+    "notebook.output.textLineLimit": 10,
+    "python.defaultInterpreterPath": "C:\\Users\\Hojin\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "remote.SSH.remotePlatform": {
+        "172.30.1.58": "linux"
+    },
+    "workbench.editorAssociations": {
+        "*.pdf": "default",
+        "*.db": "sqlite-viewer.option"
+    },
+    "window.restoreWindows": "none",
+    "notebook.lineNumbers": "on",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "explorer.confirmDelete": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}

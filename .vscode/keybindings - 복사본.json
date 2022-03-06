@@ -1,0 +1,21 @@
+//https://code.visualstudio.com/docs/getstarted/keybindings
+// Place your key bindings in this file to override the defaultsauto[]
+[ 
+    {
+        // execute python script
+        "key": "ctrl+shift+r ctrl+shift+r",
+        "command": "python.execInTerminal"
+    },
+    // bind these two..
+    // when RR is pressed, restart kernel and execute
+    //https://code.visualstudio.com/docs/editor/tasks#vscode
+    // https://dae.me/blog/2603/vs-code-bind-one-key-to-multiple-commands-without-an-extension/
+    {
+        "key": "ctrl+shift+r",
+        "command": "jupyter.notebookeditor.restartkernel"
+    },
+    {
+        "key": "ctrl+shift+r",
+        "command": "notebook.execute",
+    }
+]
