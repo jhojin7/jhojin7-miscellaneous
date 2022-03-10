@@ -1,14 +1,14 @@
 # jhojin7's Most Recent Submissions:
-Updated: 2022-03-06 03:10:53
-|    | Title            | Status              | Datetime            |
-|---:|:-----------------|:--------------------|:--------------------|
-|  0 | delete-and-earn  | Wrong Answer        | 2022-03-06 00:27:46 |
-|  1 | delete-and-earn  | Wrong Answer        | 2022-03-06 00:27:46 |
-|  2 | delete-and-earn  | Wrong Answer        | 2022-03-06 00:27:46 |
-|  3 | delete-and-earn  | Wrong Answer        | 2022-03-06 00:27:46 |
-|  4 | 3sum             | Time Limit Exceeded | 2022-03-06 00:27:46 |
-|  5 | majority-element | Accepted            | 2022-03-06 00:27:46 |
-|  6 | majority-element | Accepted            | 2022-03-06 00:27:46 |
-|  7 | majority-element | Time Limit Exceeded | 2022-03-06 00:27:46 |
-|  8 | two-sum          | Accepted            | 2022-03-06 00:27:46 |
-|  9 | two-sum          | Accepted            | 2022-03-06 00:27:46 |
+Updated: 2022-03-10 18:27:53
+|    | Title                  | Status        | Datetime            |
+|---:|:-----------------------|:--------------|:--------------------|
+|  0 | first-bad-version      | Runtime Error | 2022-03-10 15:07:07 |
+|  1 | add-two-numbers        | Accepted      | 2022-03-10 15:07:07 |
+|  2 | add-two-numbers        | Wrong Answer  | 2022-03-10 15:07:07 |
+|  3 | add-two-numbers        | Accepted      | 2022-03-10 15:07:07 |
+|  4 | merge-two-sorted-lists | Accepted      | 2022-03-10 15:07:07 |
+|  5 | linked-list-cycle      | Accepted      | 2022-03-10 15:07:07 |
+|  6 | linked-list-cycle      | Accepted      | 2022-03-10 15:07:07 |
+|  7 | linked-list-cycle      | Wrong Answer  | 2022-03-10 15:07:07 |
+|  8 | linked-list-cycle      | Runtime Error | 2022-03-10 15:07:07 |
+|  9 | linked-list-cycle      | Wrong Answer  | 2022-03-10 15:07:07 |
